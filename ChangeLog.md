@@ -1,5 +1,8 @@
 # changelog for easey
 
+## version 0.1.1.0
+- added crappy tweening module
+
 ## version 0.1.0.0
 - added basic easing functions:
   + [`inSine`](https://easings.net/en#easeInSine)

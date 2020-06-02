@@ -22,7 +22,6 @@ jobs:
         name: Setup Haskell Stack
         with:
           enable-stack: true
-          stack-setup-ghc: true
           stack-version: latest
 
       - uses: actions/cache@v1
